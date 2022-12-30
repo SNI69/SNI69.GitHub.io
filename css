@@ -2,5 +2,6 @@ sup{
 font-weight: bold;
 font-size: 40px;
 font-family: sans-serif;
-text-align: right;
+float: right;
 }
+
