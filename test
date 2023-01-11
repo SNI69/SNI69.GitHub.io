@@ -1,0 +1,252 @@
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+  <body>
+    <div class="container">
+      <div class="panel-group" id="accordion">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+              <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Ultraviolet</a>
+            </h4>
+          </div>
+          <div id="collapse1" class="panel-collapse collapse in">
+
+
+            <div class="panel-body">
+              <a class="a" href="
+        https://ultraviolet-web-proxy.jarayperkins.repl.co/
+        " target="_blank">
+                Ultraviolet 1
+              </a>
+              <a class="a" href="
+        https://ultraviolet-web-proxy.carsoncalhoun.repl.co/
+        " target="_blank">
+                Ultraviolet 2
+              </a>
+              <a class="a" href="
+        https://ultraviolet-web-proxy.reganshozi1.repl.co/
+        " target="_blank">
+                Ultraviolet 3
+              </a>
+              <a class="a" href="
+        https://backup420.topgjohnny.repl.co/
+        " target="_blank">
+                Ultraviolet 4
+              </a>
+              <a class="a" href="
+        https://backup69.topgjohnny.repl.co/
+        " target="_blank">
+                Ultraviolet 5
+              </a>
+              <a class="a" href="
+        https://backup3.topgjohnny.repl.co/
+        " target="_blank">
+                Ultraviolet 6
+              </a>
+              <a class="a" href="
+        https://backup2.topgjohnny.repl.co/
+        " target="_blank">
+                Ultraviolet 7
+              </a>
+              <p class="p">ㅤ</p>
+              <a class="a" href="
+        https://backup1.topgjohnny.repl.co/
+        " target="_blank">
+                Ultraviolet 8
+              </a>
+
+              <a class="a" href="
+        https://backup.topgjohnny.repl.co/
+        " target="_blank">
+                Ultraviolet 9
+              </a>
+
+              <a class="a" href="
+        https://coolbeanz.topgjohnny.repl.co/
+        " target="_blank">
+                Ultraviolet 10
+              </a>
+
+              <a class="a" href="
+        https://google-3.com013.repl.co/
+        " target="_blank">
+                Ultraviolet 11
+              </a>
+
+              <a class="a" href="
+        https://ultraviolet-web-proxy-6.jrkelley.repl.co/
+        " target="_blank">
+                Ultraviolet 12
+              </a>
+
+              <a class="a" href="
+        https://ultraviolet-web-proxy-23.moughera.repl.co/
+        " target="_blank">
+                Ultraviolet 13
+              </a>
+
+              <a class="a" href="
+        https://ultraviolet-web-proxy-4.jude-anthonyant.repl.co/
+        " target="_blank">
+                Ultraviolet 14
+              </a>
+              <p class="p">ㅤ</p>
+              <a class="a" href="
+        https://bigblackmen.topgjohnny.repl.co/
+        " target="_blank">
+                Ultraviolet 15
+              </a>
+
+              <a class="a" href="
+        https://ultraviolet-web-proxy7.lilperk29.repl.co/
+        " target="_blank">
+                Ultraviolet 16
+              </a>
+
+              <a class="a" href="
+        https://ultraviolet-web-proxy.tommy35.repl.co/
+        " target="_blank">
+                Ultraviolet 17
+              </a>
+
+              <a class="a" href="
+        https://ultraviolet-web-proxy-3.juanperalta5.repl.co/
+        " target="_blank">
+                Ultraviolet 18
+              </a>
+
+              <a class="a" href="
+        https://ultraviolet-web-proxy-33.boomer534.repl.co/
+        " target="_blank">
+                Ultraviolet 19
+              </a>
+
+              <a class="a" href="
+        https://ultraviolet-web-proxy.steveperezgodin.repl.co/
+        " target="_blank">
+                Ultraviolet 20
+              </a>
+
+              <a class="a" href="
+        https://ultraviolet-web-proxy.moonknight8.repl.co/
+        " target="_blank">
+                Ultraviolet 21
+              </a>
+
+
+            </div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+              <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Incognito</a>
+            </h4>
+          </div>
+          <div id="collapse2" class="panel-collapse collapse">
+            <div class="panel-body">
+              <!-- Display the countdown timer in an element -->
+              <h1>Proxy's Coming In</h1>
+              <p id="demo"></p>
+
+              <script>
+                // Set the date we're counting down to
+                var countDownDate = new Date("Jan 21, 2023 0:0:0").getTime();
+
+                // Update the count down every 1 second
+                var x = setInterval(function() {
+
+                  // Get today's date and time
+                  var now = new Date().getTime();
+
+                  // Find the distance between now and the count down date
+                  var distance = countDownDate - now;
+
+                  // Time calculations for days, hours, minutes and seconds
+                  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+                  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+                  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+                  // Display the result in the element with id="demo"
+                  document.getElementById("demo").innerHTML = days + "d " + hours + "h " +
+                    minutes + "m " + seconds + "s ";
+
+                  // If the count down is finished, write some text
+                  if (distance < 0) {
+                    clearInterval(x);
+                    document.getElementById("demo").innerHTML = "EXPIRED";
+                  }
+                }, 1000);
+
+              </script>
+              <style>
+                p {
+                  font-weight: bold;
+                  font-family: Sans-serif;
+                  color: black;
+                  font-size: 50px;
+                  text-align: center;
+                }
+
+                h1 {
+                  font-weight: bold;
+                  font-family: Sans-serif;
+                  color: black;
+                  text-align: center;
+                  font-size: 25px;
+                }
+
+              </style>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <style>
+      a.a {
+        color: white;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        background-color: black;
+        border-radius: 10px;
+        transition-duration: 0.4s;
+        border-color: transparent;
+        font-weight: bold;
+        font-family: Sans-serif;
+      }
+
+      a.a:hover {
+        color: black;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        background-color: white;
+        border-radius: 10px;
+        border-color: transparent;
+        font-weight: bold;
+        font-family: Sans-serif;
+      }
+
+      body {
+        background-color: black;
+      }
+
+      h4 {
+        text-align: center;
+        font-weight: bold;
+        font-family: Sans-serif;
+      }
+
+      p.p {
+        font-size: 5px;
+      }
+
+    </style>
+  </body>
