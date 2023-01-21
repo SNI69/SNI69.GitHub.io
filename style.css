@@ -40,6 +40,7 @@ a.text {
     font-family: sans-serif;
     float: right;
     color: white;
+    transition-duration: 0.3s;
   }
 
   a.a {
@@ -49,6 +50,7 @@ a.text {
     float: right;
     text-decoration: none;
     color: white;
+    transition-duration: 0.3s;
   }
 
   a.b {
@@ -76,7 +78,7 @@ a.text {
     float: right;
     text-decoration: none;
     color: darkgrey;
-    transition-duration: 0.4s;
+    transition-duration: 0.3s;
   }
   
       a.u:hover {
@@ -85,5 +87,5 @@ a.text {
     font-family: sans-serif;
     float: right;
     color: darkgrey;
-    transition-duration: 0.4s;
+    transition-duration: 0.3s;
   }
