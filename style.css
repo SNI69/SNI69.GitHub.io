@@ -76,6 +76,7 @@ a.text {
     float: right;
     text-decoration: none;
     color: darkgrey;
+    transition-duration: 0.4s;
   }
   
       a.u:hover {
@@ -84,4 +85,5 @@ a.text {
     font-family: sans-serif;
     float: right;
     color: darkgrey;
+    transition-duration: 0.4s;
   }
