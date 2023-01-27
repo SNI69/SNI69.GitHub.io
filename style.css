@@ -21,8 +21,8 @@
   transition: all 0.3s;
   border-radius: 13px;
   float: center;
-  z-index: 0;
   text-align: center;
+  cursor: pointer;
 }
 
 .1v1:hover {
