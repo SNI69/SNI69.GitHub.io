@@ -14,22 +14,6 @@
   border-radius: 14px;
 }
 
-.1v1 {
-  width: 280px;
-  height: 317px;
-  background: white;
-  transition: all 0.3s;
-  border-radius: 13px;
-  float: center;
-  text-align: center;
-  cursor: pointer;
-}
-
-.1v1:hover {
-  transform: scale(1.1);
-  border-radius: 14px;
-}
-
 body {
   background-color: black;
 }
