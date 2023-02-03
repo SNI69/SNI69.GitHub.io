@@ -1,8 +1,8 @@
-  var urlObj = new window.URL(window.location.href);
+var urlObj = new window.URL(window.location.href);
   var url1 = "https://ejvd3326248pklq0mtj313irgbc2vsrb-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://sites.google.com/site/s035r8h4/1v1.xml";
   if (url1) {
     var win;
-    document.querySelector('div.card').onclick = function() {
+    document.querySelector('div.card1').onclick = function() {
       {
         win = window.open();
         win.document.body.style.margin = '0';
@@ -23,7 +23,7 @@
   var url2 = "https://sni69.github.io/slope";
   if (url2) {
     var win;
-    document.querySelector('div.card1').onclick = function() {
+    document.querySelector('div.card2').onclick = function() {
       {
         win = window.open();
         win.document.body.style.margin = '0';
