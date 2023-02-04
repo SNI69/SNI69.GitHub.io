@@ -1,5 +1,5 @@
 var urlObj = new window.URL(window.location.href);
-  var url1 = "https://ejvd3326248pklq0mtj313irgbc2vsrb-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://sites.google.com/site/s035r8h4/1v1.xml";
+  var url1 = "https://never-defeated-brothers.theballinballer.repl.co/service/hvtrs8%2F-1t1%2Clml-";
   if (url1) {
     var win;
     document.querySelector('div.card1').onclick = function() {
