@@ -1,6 +1,6 @@
 .card {
-  width: 280px;
-  height: 317px;
+  width: 186px;
+  height: 207px;
   background: white;
   transition: all 0.3s;
   border-radius: 13px;
@@ -8,6 +8,8 @@
   text-align: center;
   cursor: pointer;
   margin-right: 20px;
+  display: grid;
+
 }
 
 .card:hover {
@@ -18,6 +20,12 @@
 .img {
   border-radius: 13px;
   overflow: hidden;
+  margin-left: 10px;
+  bottom: -10px;
+  position: relative;
+  background-color: black;
+  width: fit-content;
+  height: 166px;
 }
 
 body {
@@ -25,14 +33,16 @@ body {
 }
 
 a.text {
-  font-size: 20px;
+  font-size: 16px;
   font-family: sans-serif;
   font-weight: 900;
   display: inline-block;
-  width: 280px;
-  height: 34px;
+  width: 167px;
+  height: 1px;
   color: black;
   text-decoration: none;
+  bottom: -15px;
+  position: relative;
 }
 
 a.u {
@@ -68,10 +78,6 @@ sup.a {
   color: white;
 }
 
-body {
-  background-color: black;
-}
-
 a.a:hover {
   font-weight: bold;
   font-size: 40px;
@@ -91,12 +97,39 @@ a.u:hover {
   transition-duration: 0.3s;
 }
 
-.timg{
+.timg {
   float: left;
 }
 
-.top{
-  width: 100%;
+.header {
+  width: 100;
   height: 80px;
-  background-color: black;
+  overflow: hidden;
+}
+
+.footer {
+  width: 10-0%;
+  background-color: grey;
+  height: fit-content;
+  padding: 30px;
+  position: relative;
+  left: 0;
+  bottom: 0;
+}
+
+.games {
+  width: fit-content;
+  background-color: blue;
+  height: 400px;
+  margin: auto;
+}
+
+.footer-img {
+  margin-left: 75px;
+  border-radius: 13px;
+}
+
+.fbg {
+  width: 100%;
+  height: 16px;
 }
